@@ -6,7 +6,7 @@ defmodule Base58.Mixfile do
      version: "0.1.0",
      elixir: "~> 1.0",
      description: "Base58 encoding/decoding for Elixir",
-     package: package]
+     package: package()]
   end
 
   def application, do: []
